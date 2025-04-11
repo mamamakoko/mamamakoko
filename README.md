@@ -8,7 +8,7 @@ Aspiring Network Engineer pero di ko na alam gagawin lol.
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [kokoylemonada@gmail.com](mailto:kokoylemonada@gmail.com)
-* 🚀  I'm currently working on [GRIMLOCK-RESEARCH](http://notyetavailableforpulic)
+* 🚀  I'm currently working on [GRIMLOCK-RESEARCH](http://notyetavailableforpublic)
 * 🧠  I'm learning .NET and System Automations.
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I have a long and BIG patience 🥴
